@@ -1,7 +1,7 @@
 # SUBHANSHU SABHAJIT PRDESHI <img align="center" alt="coder"  width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
 
 # 💫 About Me:
-Web Development and Software Development<br>Looking to Collaborate<br>Currently Learning Angular and React 
+Web Development and Software Development<br>Looking to Collaborate<br>Currently Learning Angular and React<br>Working on CRM Hospital Management Software (HMS) using AyushHMS server and MySQL database.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sagarp_15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/subhanshu-pardeshi-39b33812b) 
@@ -15,6 +15,11 @@ Web Development and Software Development<br>Looking to Collaborate<br>Currently 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarP15&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📂 Projects:
+- [CRM Hospital Management Software](link-to-your-hms-project)
+- [Project 2 Name](link-to-your-project)
+- [Project 3 Name](link-to-your-project)
+
+ # 📂 Projects:
 - [SHRI DHANESHWARI NURSING COLLEGE](https://dhaneshwarinursing.org/)
 - [OJAS COLLEGE OF NURSING](http://ojasnursingjalna.com/)
 - [AGRICULTURAL ENGINEERING & TECHNOLOGY](https://caetsaralgaon.com/)
