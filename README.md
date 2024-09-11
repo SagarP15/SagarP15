@@ -15,7 +15,7 @@ Web Development and Software Development<br>Looking to Collaborate<br>Currently 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SagarP15&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 📂 Projects:
-- [SHRI DHANESHWARI NURSING COLLEGE]([https://dhaneshwarinursing.org/])
+- [SHRI DHANESHWARI NURSING COLLEGE](https://dhaneshwarinursing.org/)
 - [OJAS COLLEGE OF NURSING](http://ojasnursingjalna.com/)
 - [AGRICULTURAL ENGINEERING & TECHNOLOGY](https://caetsaralgaon.com/)
 
